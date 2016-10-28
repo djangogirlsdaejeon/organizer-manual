@@ -2,7 +2,7 @@
 
 Because Django Girls tries to reach a demographic of (usually) young women who are interested in technology, our attendees are possible employees or customers of a company that may sponsor your event.
 
-장고걸스는 기술에 관심있는 젊은 여성의 통계와 연락하려고 시도했기 때문에, 우리의 참석자들은 여러분의 행사를 지원해줄 회사의 직원 또는 고객이 가능합니다.
+장고걸스는 기술에 관심있는 젊은 여성의 통계와 연락하려고 시도했기 때문에, 우리의 참석자들은 여러분의 행사를 지원해줄 회사의 직원 또는 고객이 될 수 있습니다.
 
 We look for sponsors who are active participants in the local technology scene, from startups to big corporations to non-profits to government organizations.
 
